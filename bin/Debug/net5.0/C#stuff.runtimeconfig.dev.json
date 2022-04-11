@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/xswan/.dotnet/store/|arch|/|tfm|",
+      "/Users/xswan/.nuget/packages"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GmYX7bf6you4rqijKEG7c39lYp55GiyAwL7uQQsst3Jdj4Mgc3qv1Ik7jGsUjmYWgIiGGGQFC6KaWJ+HQBspUQ==",
+  "success": true,
+  "projectFilePath": "/Users/xswan/Documents/Projects/C#stuff/C#stuff.csproj",
+  "expectedPackageFiles": [
+    "/Users/xswan/.nuget/packages/raylib-cs/4.0.0.1/raylib-cs.4.0.0.1.nupkg.sha512",
+    "/Users/xswan/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
